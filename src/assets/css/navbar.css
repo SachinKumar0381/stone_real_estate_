@@ -1,0 +1,42 @@
+.navbar-div{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.navbar-div p{
+    color: aliceblue;
+    font-weight: bold;
+}
+.navbar-div p:hover{
+    color: #ea8323;
+    cursor: pointer;
+}
+.navbar-img-sec img{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+.navbar-menu-sec{
+    display: flex;
+    width: 60%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar-right-sec{
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-mob-menu, .navbar-search-sec, .navbar-contact-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hover-search:hover{
+    color: #ea8323;
+    cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.about-div{
+    padding: 50px 10%;
+    text-align: center;
+    background-color: rgb(236, 234, 234);
+}
+.about-div > p{
+    color: #ea8323;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.about-div > h1{
+    color: #3e6f7e;
+}
+.about-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.about-grid img{
+    width: 100%;
+}
+.about-grid h2, .about-grid p{
+    text-align: left;
+    line-height: 40px;
+}
+.about-grid p{
+    color: grey;
+}
+.deco-text{
+    font-size: 50px;
+    color: rgb(71, 166, 71);
+}
+
+@media (max-width:1024px){
+    
+}
+@media (max-width:768px){
+    .about-grid{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 20px;
+    }
+}

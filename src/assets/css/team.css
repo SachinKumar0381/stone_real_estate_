@@ -1,0 +1,92 @@
+.team-div{
+    padding: 50px 10%;
+    text-align: center;
+    background-color: rgb(236, 234, 234);
+}
+.team-div > p{
+    color: #ea8323;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.team-div > h1{
+    color: #3e6f7e;
+}
+.team-box{
+    border: 2px dashed #3e6f7e;
+    display: flex;
+    padding: 10px;
+    text-align: left;
+    gap: 10px;
+    background-color: aliceblue;
+}
+.team-box h3{
+    color: #3e6f7e;
+}
+.team-box p{
+    color: grey;
+}
+.team-out-box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+.teamcard{
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 300px; */
+    display: flex;
+    align-items: end;
+    background-position: center;
+    aspect-ratio: 1/1;
+}
+.teamcard-btn{
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#ea8323;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    display: none;
+}
+
+.teamcard:hover .teamcard-btn{
+    display: flex;
+    animation: fullwidth 0.5s;
+    cursor: pointer;
+}
+.team-text{
+    text-align: left;
+    line-height: 5px;
+}
+
+@keyframes fullwidth{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 100%;
+    }
+}
+.btn-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+}
+
+@media (max-width:1024px){
+    .team-out-box{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 10px;
+    }
+}
+@media (max-width:768px){
+    .team-out-box{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 10px;
+    }
+}
