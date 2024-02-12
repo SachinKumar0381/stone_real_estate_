@@ -17,7 +17,7 @@ const About = () => {
             Perfect Solution For Your Dream House
             </h2>
             <p>
-            Eget lorem purus egestas proin. Penatibus quis lacinia nulla at proin. Dignissim a placerat massa quam hendrerit in laoreet urna. Sed in volutpat sit porttitor vestibulum quis semper tristique ac. Ut sed eget a odio varius nisl sed nec. At elementum nascetur turpis elementum egestas non turpis.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores molestiae beatae veniam dolores. At quos dolor voluptates. At delectus dolore dicta odit cumque, autem provident est enim qui illum.
             </p>
             <CustomButton inner_text="Explore more"/>
         </div>
@@ -26,7 +26,7 @@ const About = () => {
         </div>
         <div>
             <p>
-            <span className='deco-text'>M</span>ignissim adipiscing pretium libero at tristique. Diam sit mauris a interdum. In tristique eu vestibulum id amet malesuada. Quis morbi morbi sed volutpat tristique. Lacinia praesent dictum morbi et fermentum. Sit a sit ac blandit. Cursus donec mollis elit arcu donec aliquam.
+            <span className='deco-text'>L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum aliquam impedit repellat eos perspiciatis sunt blanditiis mollitia quae dolore voluptate, odit vitae officia. Expedita vel dignissimos accusantium tempore repellendus?
             </p>
         </div>
         </div>
