@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stone_real_estate_/static/css/main.14ea765a.css",
-    "main.js": "/stone_real_estate_/static/js/main.4b903099.js",
+    "main.js": "/stone_real_estate_/static/js/main.4748c991.js",
     "static/js/592.2270a81d.chunk.js": "/stone_real_estate_/static/js/592.2270a81d.chunk.js",
     "static/media/profile_01.jpeg": "/stone_real_estate_/static/media/profile_01.284e4580152575aac8b6.jpeg",
     "static/media/news-10.jpg": "/stone_real_estate_/static/media/news-10.ab7fa2b52df98ef42a79.jpg",
@@ -18,14 +18,17 @@
     "static/media/slick.eot": "/stone_real_estate_/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/stone_real_estate_/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/service-1.svg": "/stone_real_estate_/static/media/service-1.2fa58da907e28b014f764365330cb6b1.svg",
+    "static/media/service-3.svg": "/stone_real_estate_/static/media/service-3.555b71113bcaa1118b973704bdb3171f.svg",
+    "static/media/service-8.svg": "/stone_real_estate_/static/media/service-8.91eb3eb27bb3210e0f1a9c59537cf1a1.svg",
     "static/media/slick.woff": "/stone_real_estate_/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/service-2.svg": "/stone_real_estate_/static/media/service-2.f533a92c302d774fa83fbee7653f5914.svg",
     "index.html": "/stone_real_estate_/index.html",
     "main.14ea765a.css.map": "/stone_real_estate_/static/css/main.14ea765a.css.map",
-    "main.4b903099.js.map": "/stone_real_estate_/static/js/main.4b903099.js.map",
+    "main.4748c991.js.map": "/stone_real_estate_/static/js/main.4748c991.js.map",
     "592.2270a81d.chunk.js.map": "/stone_real_estate_/static/js/592.2270a81d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ea765a.css",
-    "static/js/main.4b903099.js"
+    "static/js/main.4748c991.js"
   ]
 }
