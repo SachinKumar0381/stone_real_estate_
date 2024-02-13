@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stone_real_estate_/static/css/main.a02b3015.css",
+    "main.css": "/stone_real_estate_/static/css/main.dc11c510.css",
     "main.js": "/stone_real_estate_/static/js/main.be738d4d.js",
     "static/js/592.2270a81d.chunk.js": "/stone_real_estate_/static/js/592.2270a81d.chunk.js",
     "static/media/img_01.jpg": "/stone_real_estate_/static/media/img_01.2ff21f4e6a3c2bbc304e.jpg",
@@ -21,12 +21,12 @@
     "static/media/slick.woff": "/stone_real_estate_/static/media/slick.295183786cd8a1389865.woff",
     "static/media/service-2.svg": "/stone_real_estate_/static/media/service-2.f533a92c302d774fa83fbee7653f5914.svg",
     "index.html": "/stone_real_estate_/index.html",
-    "main.a02b3015.css.map": "/stone_real_estate_/static/css/main.a02b3015.css.map",
+    "main.dc11c510.css.map": "/stone_real_estate_/static/css/main.dc11c510.css.map",
     "main.be738d4d.js.map": "/stone_real_estate_/static/js/main.be738d4d.js.map",
     "592.2270a81d.chunk.js.map": "/stone_real_estate_/static/js/592.2270a81d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a02b3015.css",
+    "static/css/main.dc11c510.css",
     "static/js/main.be738d4d.js"
   ]
 }
