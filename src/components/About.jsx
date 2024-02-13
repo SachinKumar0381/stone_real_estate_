@@ -24,7 +24,7 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores moles
             </p>
             <CustomButton inner_text="Explore more"/>
         </div>
-        <div style={{border:"1px solid red"}}>
+        <div>
             <img src={about_img} alt="" style={{height:"100%",objectFit:"cover"}}/>
         </div>
         
