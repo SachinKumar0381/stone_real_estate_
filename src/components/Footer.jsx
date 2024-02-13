@@ -91,7 +91,7 @@ const Footer = () => {
         </div>
         <div className='footer-lower'>
         <div className="copyright">Copyright &copy; 2024. All Rights Reserved.</div>
-        <div>Developed & Desing by Barodaweb | The E-Catalogue Designe</div>
+        <div>Developed & Design by Barodaweb | The E-Catalogue Designer</div>
         </div>
     </div>
   )
