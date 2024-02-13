@@ -7,9 +7,9 @@ import Stack from '@mui/material/Stack';
 const ColorButton = styled(Button)(({ theme }) => ({
   color:"#f5f2ed",
   fontWeight:"bold",
-  backgroundColor: "#ea8323",
+  backgroundColor: "#3e6f7e",
   '&:hover': {
-    backgroundColor: "#e69d5a",
+    backgroundColor: "#ea8323",
   },
 }));
 

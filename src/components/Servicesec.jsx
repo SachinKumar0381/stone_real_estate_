@@ -43,7 +43,7 @@ const Servicesec = () => {
                 <div style={{width:"100px"}} className='service-box-div'>
                     <img src={service_08} alt="" style={{width:"100%"}}/></div>
                     <h3>Lending Partners</h3>
-                    <p>Our experienced brokerage team are experts in their field. One of our Signature Services is helping Corporate and Franchised Restaurant Brands grow successfully.</p>
+                    <p>Text will be coming soon... Text will be coming soon... Text will be coming soon... Text will be coming soon... Text will be coming soon... Text will be coming soon... </p>
             </div>
         </div>
         {/* <div className='btn-div'>

@@ -2,7 +2,10 @@
     padding: 0px 10%;
     color: white;
 }
-.footer-div p,h3,div{
+.footer-div p,div{
+  color: grey;
+}
+.footer-div h3{
   color: #3e6f7e;
 }
 ul{

@@ -4,7 +4,7 @@
     background-color: rgb(236, 234, 234);
 }
 .team-div > p{
-    color: #ea8323;
+    color: #3e6f7e;
     font-weight: bold;
     margin-bottom: 50px;
 }
@@ -44,7 +44,7 @@
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    background-color:#ea8323;
+    background-color:#3e6f7e;
     color: white;
     padding: 10px;
     font-weight: bold;
