@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+p, h1, h2, h3, div{
+  font-family:sans-serif;
+}
 
 .App-logo {
   height: 40vmin;

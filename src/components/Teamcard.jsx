@@ -4,7 +4,7 @@ import "../assets/css/team.css";
 
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
-import profile_01 from "../assets/images/teams/profile_01.jpeg";
+import profile_01 from "../assets/images/teams/profile.jpg";
 
 const Teamcard = () => {
   return (

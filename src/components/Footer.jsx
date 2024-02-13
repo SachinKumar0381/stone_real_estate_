@@ -8,22 +8,23 @@ import XIcon from '@mui/icons-material/X';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
+import about_bg from "../assets/images/about/about_bg.png";
 
 const Footer = () => {
   return (
-    <div className='footer-div'>
-        <div className='footer-upper'>
-        <div className='footer-logo'>
+    <div className='footer-div' style={{backgroundImage:`url(${about_bg})`}}>
+        <div className='footer-grid'>
+		<div className='footer-logo-social'>
+		<div className='footer-logo'>
             <img src={logo} alt=""/>
         </div>
-        <div className='footer-social'>
+		<div className='footer-social'>
             <FacebookIcon/>
             <XIcon/>
             <YouTubeIcon/>
             <InstagramIcon/>
         </div>
-        </div>
-        <div className='footer-grid'>
+		</div>
             <div>
                 <h3>QUICK LINKS</h3>
                 <ul>
@@ -34,7 +35,7 @@ const Footer = () => {
                     <li><p>Lending Partners</p></li>
                 </ul>
             </div>
-            <div>
+            {/* <div>
 						<div className="footer-widget links-widget">
 							<h3>HOURS</h3>
 							<table className='footer-timing-line'>
@@ -78,13 +79,13 @@ const Footer = () => {
 								</tr>
 							</table>
 						</div>
-            </div>
+            </div> */}
             <div>
 							<h3>CONTACT US</h3>
 							<ul className="footer-contact_list">
 								<li><p><span>PH:</span>+9999999999</p></li>
 								<li><p><span>EM:</span>username@domain.com</p></li>
-								<li><p><span>LO:</span>Text will be coming soon... <br/> Text will be coming soon...</p></li>
+								<li><p><span>LO:</span>Text will be coming soon... Text will be coming soon...</p></li>
 							</ul>
             </div>
         </div>

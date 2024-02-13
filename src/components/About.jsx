@@ -17,6 +17,9 @@ const About = () => {
             Perfect Solution For Your Dream House
             </h2>
             <p>
+            <span className='deco-text'>L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum aliquam impedit repellat eos perspiciatis sunt blanditiis mollitia quae dolore voluptate, odit vitae officia. Expedita vel dignissimos accusantium tempore repellendus?
+            </p>
+            <p>
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores molestiae beatae veniam dolores. At quos dolor voluptates. At delectus dolore dicta odit cumque, autem provident est enim qui illum.
             </p>
             <CustomButton inner_text="Explore more"/>
@@ -24,11 +27,7 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores moles
         <div>
             <img src={about_img} alt="" />
         </div>
-        <div>
-            <p>
-            <span className='deco-text'>L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum aliquam impedit repellat eos perspiciatis sunt blanditiis mollitia quae dolore voluptate, odit vitae officia. Expedita vel dignissimos accusantium tempore repellendus?
-            </p>
-        </div>
+        
         </div>
     </div>
   )

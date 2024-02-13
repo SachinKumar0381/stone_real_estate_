@@ -1,23 +1,22 @@
 .navbar-div{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     position: fixed;
     width: 100%;
     z-index: 9;
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .navbar-div p{
     color: aliceblue;
     font-weight: bold;
 }
-.navbar-div p:hover{
-    color: #ea8323;
-    cursor: pointer;
-}
+
 .navbar-img-sec img{
     width: 200px;
     height: 100px;
     object-fit: cover;
+}
+.nav-right-margin{
+    margin-left: 50px;
 }
 .navbar-menu-sec{
     display: flex;
@@ -35,8 +34,19 @@
     justify-content: center;
     align-items: center;
 }
+.navbar-mob-menu{
+    margin-right: 50px;
+}
 
 .hover-search:hover{
+    color: #ea8323;
+    cursor: pointer;
+}
+.menu-list{
+    text-align: center;
+}
+
+.menu-list p:hover{
     color: #ea8323;
     cursor: pointer;
 }
